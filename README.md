@@ -29,14 +29,14 @@ Get up and running in under 60 seconds:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/aazannoorkhuwaja/ThreatLens.git
-cd ThreatLens
+git clone https://github.com/UzairTechie/Threatlens.git
+cd Threatlens
 
 # 2. Install dependencies
-pip install notebook numpy pandas matplotlib scikit-learn
+pip install -r requirements.txt
 
 # 3. Launch Jupyter & run notebook
-jupyter notebook Network_Intrusion_Detection.ipynb
+jupyter notebook ThreatLens.ipynb
 ```
 
 ---
